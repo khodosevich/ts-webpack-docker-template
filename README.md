@@ -46,4 +46,3 @@
 
 ### Приложение будет доступно по адресу http://localhost.
 
-# ts-webpack-docker-template
